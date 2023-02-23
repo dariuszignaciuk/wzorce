@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "lib": [ "ES6", "DOM"],
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "allowSyntheticDefaultImports": true,
+        "importHelpers": true,
+        "alwaysStrict": true,
+        "sourceMap": true,
+        "forceConsistentCasingInFileNames": true,
+        "noFallthroughCasesInSwitch": true,
+        "noImplicitReturns": true,
+        "noImplicitAny": false,
+        "noImplicitThis": false,
+        "strictNullChecks": false
+    },
+    "include": ["src/**/*"]
+}
