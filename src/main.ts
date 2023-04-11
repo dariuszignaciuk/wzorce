@@ -40,8 +40,8 @@ class App {
         new StateDemo();
         new StrategyDemo();
         new TemplateMethodDemo();
-        new ChainOfResponsibilityDemo();
         new CommandDemo();
+        new ChainOfResponsibilityDemo();
     }
 }
 
